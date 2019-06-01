@@ -1,3 +1,3 @@
 # max_path_finder
 
-Solution to a fun little path finding problem.
+Use dynamic programming to find the minimal path through a triangular graph with the constraint of alternating between odd and even numbers.
